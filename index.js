@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Obvis que eres la personita a la cual mas quedre <3')
+    alert('Obvio que eres la personita a la cual mas quedre <3')
 });
 
 const noBtn = document.querySelector('#noBtn');
