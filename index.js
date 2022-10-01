@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Me gusta que comas siempre :3')
+    alert('Obvis que eres la personita a la cual mas quedre <3')
 });
 
 const noBtn = document.querySelector('#noBtn');
