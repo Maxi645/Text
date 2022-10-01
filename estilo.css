@@ -3,12 +3,11 @@
 }
 
 .contenedor{
-    background: bluviole;
+    background: blu;
     width: 100vw;
     height: 100vh;
     text-align: center;
 }
-
 p{
     font-size: xx-large;
     padding: 15%;
